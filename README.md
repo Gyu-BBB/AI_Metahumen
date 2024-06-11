@@ -302,7 +302,7 @@ E키를 Hold하고 있을때를 음성을 받아들이는 방식으로 진행된
 
 ![11labs_use](./Image/image-5.png)
 
-![Voice_reply](./Image/image-2.png)
+![Voice_reply](./Image/image-2.jpg)
 
 ### 작동 순서
 
